@@ -1,5 +1,9 @@
 # Scroll
 
+<img width="420" height="240" alt="scrollscroll_125637_round_01" src="https://github.com/user-attachments/assets/caf185cc-aa3a-4873-9870-037025874656" />
+
+<img width="420" height="240" alt="scrollscroll_125833_round_01" src="https://github.com/user-attachments/assets/9da66249-ff1d-4c76-aac5-d87d7af3a8fc" />
+
 **Scroll** game mode: levels are stitched together and the screen scrolls non-stop.
 Keep up, grab the chests and reach the goal portal; stragglers fall off screen and die.
 
@@ -23,12 +27,21 @@ Log files live in `<TowerFall>/FortRise/Logs/`.
 
 ## Usage
 
+<img width="759" height="677" alt="image" src="https://github.com/user-attachments/assets/8ca73e19-70d9-4217-99db-561a45cccc65" />
+
 Pick the **Scroll** mode on the versus screen, then start the match.
 
 > **Opening the popup**: on the versus screen, with the mode selected, press **Y** (the
 > "arrows" button on the controller) on the mode button. A hint is shown under the
 > button. The popup locks the menu while it is open (no going back, no starting the
 > match); **A** or **B** closes it.
+
+
+<img width="798" height="466" alt="image" src="https://github.com/user-attachments/assets/db916376-e09e-4cef-8368-e501c16c4b0d" />
+
+
+<img width="775" height="668" alt="image" src="https://github.com/user-attachments/assets/163737d1-4255-4d1a-a91d-b24365a7621b" />
+
 
 The popup tweaks the main settings without going through the options menu:
 
