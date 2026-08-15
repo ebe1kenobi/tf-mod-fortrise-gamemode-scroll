@@ -1,8 +1,8 @@
 # Scroll
 
-<img width="420" height="240" alt="scrollscroll_125637_round_01" src="https://github.com/user-attachments/assets/caf185cc-aa3a-4873-9870-037025874656" />
+<img width="640" height="400" alt="scrollscroll_125637_round_01" src="https://github.com/user-attachments/assets/caf185cc-aa3a-4873-9870-037025874656" />
 
-<img width="420" height="240" alt="scrollscroll_125833_round_01" src="https://github.com/user-attachments/assets/9da66249-ff1d-4c76-aac5-d87d7af3a8fc" />
+<img width="640" height="400" alt="scrollscroll_125833_round_01" src="https://github.com/user-attachments/assets/9da66249-ff1d-4c76-aac5-d87d7af3a8fc" />
 
 **Scroll** game mode: levels are stitched together and the screen scrolls non-stop.
 Keep up, grab the chests and reach the goal portal; stragglers fall off screen and die.
