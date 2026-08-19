@@ -150,7 +150,7 @@ namespace TFModFortRiseScroll
     }
 
     // Tous les joueurs apparaissent au meme endroit (gauche), facon course.
-    public bool ScrollSameSpawn { get; set; } = true;
+    public bool ScrollSameSpawn { get; set; } = false;
 
     // Desactive le tir de fleches (donc pas de kill a distance).
     public bool ScrollNoArrows { get; set; } = true;
